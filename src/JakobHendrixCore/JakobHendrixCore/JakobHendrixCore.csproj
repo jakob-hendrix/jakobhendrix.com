@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject></StartupObject>
+    <Version>0.4.0</Version>
+    <Authors>Jakob Hendrix</Authors>
   </PropertyGroup>
 
   <ItemGroup>
